@@ -1,0 +1,5 @@
+#pragma once
+
+#define SHINY_VERSION_MAJOR @Version_major@
+#define SHINY_VERSION_MINOR @Version_minor@
+#define SHINY_VERSION_PATCH @Version_patch@
